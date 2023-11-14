@@ -18,6 +18,7 @@ def playPreseason(pList):
         i+=1
 
 
+
 pList = []
 
 for i in range(250):
